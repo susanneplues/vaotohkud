@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tahiemaal.nettomation.com/sitemap.xml
